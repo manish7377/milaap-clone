@@ -1,6 +1,32 @@
 # Milaap.org Clone Project
-
 Original Website: [Milaap.org](https://milaap.org/)
+
+We cloned this milaap website during masia school constuct week. We implimented some basic features of fundraiser website. User can create a campaign and collect funds, can also donate to another campaign, can see the amount raised for a specific campaign.
+
+## Tech stacks and librarise
+
+* React
+* Redux
+* Json-API
+* Thunk
+* CSS
+* MaterialUi
+* ChakraUi
+
+You can find all the libraries in [npm](https://www.npmjs.com/) package website.
+
+## Usages
+
+To use this repo, you should have node and npm packages
+
+* Install npm
+`npm install`
+* To Start Server
+`npm start`
+* Location
+`localhost:3000`
+
+You can use another port to run this.
 
 ## Project Demo
 ![milaap-demo](https://user-images.githubusercontent.com/42139446/115157364-7a315200-a0a6-11eb-945d-e7e1e1840ac8.gif)
@@ -21,13 +47,6 @@ Original Website: [Milaap.org](https://milaap.org/)
 ### Pricing Page
 ![Screenshot (580)](https://user-images.githubusercontent.com/42139446/115157474-080d3d00-a0a7-11eb-83ac-d214b0a166db.png)
 
-## Tech Stack
-### React.js (Hooks)
-### Redux
-### Context Api
-### Styled-components
-### Storybook.js
-### Json Mock Server
 
 ## Contributors
 ### Gaurav Tambe
